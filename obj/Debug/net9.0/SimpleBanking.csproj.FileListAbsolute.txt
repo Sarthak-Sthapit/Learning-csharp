@@ -1,0 +1,14 @@
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.AssemblyInfoInputs.cache
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.AssemblyInfo.cs
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.csproj.CoreCompileInputs.cache
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/bin/Debug/net9.0/SimpleBanking
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/bin/Debug/net9.0/SimpleBanking.deps.json
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/bin/Debug/net9.0/SimpleBanking.runtimeconfig.json
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/bin/Debug/net9.0/SimpleBanking.dll
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/bin/Debug/net9.0/SimpleBanking.pdb
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.dll
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/refint/SimpleBanking.dll
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.pdb
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/SimpleBanking.genruntimeconfig.cache
+/home/sarthak/Documents/internship/learning-c#/SimpleBanking/obj/Debug/net9.0/ref/SimpleBanking.dll

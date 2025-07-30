@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1PpRiBbzfWg=",
+  "success": true,
+  "projectFilePath": "/home/sarthak/Documents/internship/learning-c#/SimpleBanking/SimpleBanking.csproj",
+  "expectedPackageFiles": [
+    "/home/sarthak/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
