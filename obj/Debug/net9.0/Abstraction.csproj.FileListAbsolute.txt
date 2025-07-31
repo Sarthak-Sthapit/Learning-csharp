@@ -1,0 +1,15 @@
+/home/sarthak/Documents/internship/learning-c#/Abstraction/bin/Debug/net9.0/Abstraction
+/home/sarthak/Documents/internship/learning-c#/Abstraction/bin/Debug/net9.0/Abstraction.deps.json
+/home/sarthak/Documents/internship/learning-c#/Abstraction/bin/Debug/net9.0/Abstraction.runtimeconfig.json
+/home/sarthak/Documents/internship/learning-c#/Abstraction/bin/Debug/net9.0/Abstraction.dll
+/home/sarthak/Documents/internship/learning-c#/Abstraction/bin/Debug/net9.0/Abstraction.pdb
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.AssemblyInfoInputs.cache
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.AssemblyInfo.cs
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.sourcelink.json
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.dll
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/refint/Abstraction.dll
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.pdb
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/Abstraction.genruntimeconfig.cache
+/home/sarthak/Documents/internship/learning-c#/Abstraction/obj/Debug/net9.0/ref/Abstraction.dll
