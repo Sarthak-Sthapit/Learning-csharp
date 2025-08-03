@@ -1,0 +1,15 @@
+/home/sarthak/Documents/internship/learning-c#/starpattern/bin/Debug/net9.0/starpattern
+/home/sarthak/Documents/internship/learning-c#/starpattern/bin/Debug/net9.0/starpattern.deps.json
+/home/sarthak/Documents/internship/learning-c#/starpattern/bin/Debug/net9.0/starpattern.runtimeconfig.json
+/home/sarthak/Documents/internship/learning-c#/starpattern/bin/Debug/net9.0/starpattern.dll
+/home/sarthak/Documents/internship/learning-c#/starpattern/bin/Debug/net9.0/starpattern.pdb
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.AssemblyInfoInputs.cache
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.AssemblyInfo.cs
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.csproj.CoreCompileInputs.cache
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.sourcelink.json
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.dll
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/refint/starpattern.dll
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.pdb
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/starpattern.genruntimeconfig.cache
+/home/sarthak/Documents/internship/learning-c#/starpattern/obj/Debug/net9.0/ref/starpattern.dll
